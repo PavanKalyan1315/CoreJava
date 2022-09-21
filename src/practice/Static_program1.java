@@ -15,7 +15,12 @@ public class Static_program1 {
 		hsp.phnumber= 788787;
 		hsp.patientname="ragu";
 		hsp.address= "rajamendry";
-		sysouyt
+		System.out.println("hsp name=="+hsp.hosptialname);
+		System.out.println("patientid=="+hsp.patientID);
+		System.out.println( "ph number=="+hsp.phnumber);
+		System.out.println( "patient name=="+hsp.patientname);
+		System.out.println("address=="+hsp.address);
+		
 		// TODO Auto-generated method stub
 
 	}
