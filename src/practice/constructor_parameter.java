@@ -1,4 +1,5 @@
-package Themes;
+package practice;
+
 
 class Kims{
 	String detailsform;
@@ -19,7 +20,9 @@ class Kims{
 		System.out.println("ph number ="+ phnumber);
 	}
 }
-public class constructor_parameters {
+public class constructor_parameter {
+
+
 
 	public static void main(String[] args) {
 		
@@ -28,5 +31,9 @@ public class constructor_parameters {
 		// TODO Auto-generated method stub
 
 	}
+
+
+
+
 
 }
